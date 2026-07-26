@@ -1,0 +1,16 @@
+{
+  "name": "Aarav Skin & Hair Clinic",
+  "short_name": "Aarav Clinic",
+  "description": "Premier dermatology, hair restoration and laser care.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
